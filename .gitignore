@@ -9,3 +9,12 @@ venv/
 !watermarked_sample.pdf
 .streamlit/
 android_project_source/
+
+# Auto-added standard ignores
+*.env
+*.log
+.env
+.env.*.local
+.env.local
+.pytest_cache/
+Thumbs.db

@@ -32,10 +32,6 @@
     streamlit run app.py
     ```
 
-## 📱 Mobile Usage (Android)
-You can run this app entirely offline on your phone!
-See [ANDROID_GUIDE.md](ANDROID_GUIDE.md) for step-by-step instructions using Pydroid 3.
-
 ## 🛠️ Tech Stack
 *   **Streamlit**: For the interactive web UI.
 *   **PyMuPDF (fitz)**: High-performance PDF handling.
