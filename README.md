@@ -1,6 +1,9 @@
 # ✨ PDF Vibe Watermarker
 
 > A modern, local-first web application to add professional watermarks to your PDF documents. Built with Python & Streamlit.
+>
+> **Timeline:** 3rd June 2026 – 15th June 2026  
+> **Author & Developer:** Mohammad Ayan ([@ajlaanayan-crypto](https://github.com/ajlaanayan-crypto))
 
 ## 🌟 Features
 *   **Live Preview**: Real-time watermark adjustment on the first page.
